@@ -4,5 +4,7 @@ Main interpreter features: variable declaration and assignment, arithmetic and c
 
 Program Selection Window:
 ![Program Selection Window](https://i.ibb.co/YD8kMLT/Program-Selection-Window.png)
+
+Main Window:
 ![Main](https://i.ibb.co/L903xTB/main1.png)
 ![Main2](https://i.ibb.co/J538bSC/main2.png)
